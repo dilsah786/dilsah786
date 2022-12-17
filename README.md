@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dilsah786
+- 👋 Hi, I’m Dilnawaz
 - 👀 I’m interested in ...learning new things.
 - 🌱 I’m currently learning ...Web Development.
 - 💞️ I’m looking to collaborate on ...learning tools
