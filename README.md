@@ -1,3 +1,13 @@
+
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ...Projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <p align="center"><img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"  alt="Coding" width="100%"height="500"></p>
 
 <h2 align="center">
@@ -73,7 +83,7 @@
     <h2><a href="https://dilsah786.github.io/">🌍 | Portfolio </a></h2>
 
 <!--
-**BabyGupta05/BabyGupta05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dilsah786/dilsah786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
