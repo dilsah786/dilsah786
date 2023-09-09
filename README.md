@@ -61,10 +61,10 @@
 
 <h2>🌍 Connect with me :</h2>
    <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/md-dilnawaz-alam-a753861a4" target="blank">
+   <a href="[www.linkedin.com/in/md-dilnawaz-alam-a753861a4](https://www.linkedin.com/in/md-dilnawaz-alam-a753861a4/)" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
-                alt="www.linkedin.com/in/md-dilnawaz-alam-a753861a4" width="40px" />
+                alt="[www.linkedin.com/in/md-dilnawaz-alam-a753861a4](https://www.linkedin.com/in/md-dilnawaz-alam-a753861a4/)" width="40px" />
         </a>
         <a href="https://github.com/dilsah786" target="blank">
             <img align="center"
