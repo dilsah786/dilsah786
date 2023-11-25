@@ -81,7 +81,9 @@
         <img src="https://img.shields.io/github/followers/dilsah786?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://655dc3311c57177b028de987--starlit-smakager-85223e.netlify.app/">🌍 | Portfolio </a></h2>
+    <h2><a href="https://dilsah786.github.io/">🌍 | Portfolio </a></h2>
+    <h2><a href="https://dilsah786.github.io/">🌍 | Resume </a></h2>
+    
     
 
 <!--
