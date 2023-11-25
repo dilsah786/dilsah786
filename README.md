@@ -82,7 +82,7 @@
     </a>
     <hr />
     <h2><a href="https://dilsah786.github.io/">🌍 | Portfolio </a></h2>
-    <h2><a href="https://dilsah786.github.io/">🌍 | Resume </a></h2>
+    <h2><a href="[https://dilsah786.github.io](https://drive.google.com/file/d/1p45Y0uSR-4MRePiAhBDuzp0L1BJ_mFlS/view)/"> | Resume </a></h2>
     
     
 
