@@ -1,6 +1,18 @@
 
 
 
+<h2 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/dilsah786" target="_blank" rel="noopener noreferrer">Dilnawaz</a>.
+</h2>
+
+<p align="center"><img  src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"  alt="Coding" width="100%"height="500" ></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
+</p>
+
+<h3 align="center">Passionate MERN Full Stack Developer. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
+
 - 🔭 I’m currently working on ... Full Stack Web App 
 - 🌱 I’m currently learning ... Backend
 - 👯 I’m looking to collaborate on ...Projects
@@ -9,16 +21,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
-<p align="center"><img  src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"  alt="Coding" width="100%"height="500" ></p>
 
-<h2 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/dilsah786" target="_blank" rel="noopener noreferrer">Dilnawaz</a>.
-</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
-</p>
-
-<h3 align="center">Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
 
 <!-- new file -->
 
