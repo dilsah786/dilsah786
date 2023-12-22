@@ -84,7 +84,7 @@
         <img src="https://img.shields.io/github/followers/dilsah786?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://dilsah786-github-ni7tbs6eb-dilsah786s-projects.vercel.app/">🌍 | Portfolio </a></h2>
+    <h2><a href="https://portfolio-m57rc6nre-dilsah786s-projects.vercel.app/">🌍 | Portfolio </a></h2>
     <h2><a href="https://drive.google.com/file/d/16cLcep4isminOLNycgUnCxTVo0fx-rtq/view?usp=sharing" target="_blank"> <img src="https://i.pinimg.com/474x/0f/00/f1/0f00f1f62f4d7df319284f1e373c6455.jpg" width="20px" height="20px" />  | Resume </a></h2>
 
 
