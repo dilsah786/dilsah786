@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://github.com/dilsah786" target="_blank" rel="noopener noreferrer">Dilnawaz</a>.
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="200px"> , I'm <a href="https://github.com/dilsah786" target="_blank" rel="noopener noreferrer">Dilnawaz</a>.
 </h2>
 
 <p align="center"><img  src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"  alt="Coding" width="100%"height="500" ></p>
