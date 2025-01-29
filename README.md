@@ -13,8 +13,8 @@
 
 <h3 align="center">Passionate MERN Full Stack Developer. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
 
-- 🔭 I’m currently working on ... Full Stack Web App 
-- 🌱 I’m currently learning ... Backend
+- 🔭 I’m currently working on ... Something big
+- 🌱 I’m currently learning ... new tech
 - 👯 I’m looking to collaborate on ...Projects
 - 💬 Ask me about ... Full Stack Web App
 - 📫 How to reach me: ... mddilnawazalam7739@gmail.com, Whatsapp(7739363640)
