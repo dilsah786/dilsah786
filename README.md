@@ -54,7 +54,6 @@ Passionate **Frontend & Full-Stack Developer** with **3.5+ years of experience**
 ### 🛠️ Tech Stack & Capabilities
 
 <div align="center">
-
 #### 🚀 Frontend & UI Engineering
 
 <p align="center">
@@ -67,8 +66,12 @@ Passionate **Frontend & Full-Stack Developer** with **3.5+ years of experience**
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aceternity_UI-09090B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
+
 
 #### ⚙️ Backend, Databases & APIs
 
